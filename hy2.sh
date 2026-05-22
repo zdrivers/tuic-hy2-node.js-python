@@ -6,9 +6,9 @@
 set -e
 
 # ---------- 默认配置 ----------
-HYSTERIA_VERSION="v2.6.5"
+HYSTERIA_VERSION="v2.9.1"
 DEFAULT_PORT=22222         # 自适应端口
-AUTH_PASSWORD="ieshare2025"   # 建议修改为复杂密码
+AUTH_PASSWORD="zdtuick789"   # 建议修改为复杂密码
 CERT_FILE="cert.pem"
 KEY_FILE="key.pem"
 SNI="www.bing.com"
